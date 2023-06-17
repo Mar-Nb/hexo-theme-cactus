@@ -1,15 +1,16 @@
 nav:
   home: Accueil
-  about: A propos
-  articles: Archives
+  about: À propos
+  articles: Blog
   projects: Projets
   search: Rechercher
+  cv: Mon CV
 
 footer:
   copyright: Copyright
 
 index:
-  find_me_on: Retrouve moi sur
+  find_me_on: Retrouvez moi sur
   enum_comma: ','
   enum_and: et
   articles: Articles
@@ -28,7 +29,7 @@ post:
     share: Partager
 
 search:
-  search: rechercher...
+  search: Rechercher...
   no_results: Aucun résultat trouvé.
 
 pagination:
